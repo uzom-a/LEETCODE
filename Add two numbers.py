@@ -24,5 +24,5 @@ class Solution:
             curr2 = curr2.next if curr2 else None
         
         curr_new.next = ListNode(carry) if carry else None
-        
+
         return new_ll.next
