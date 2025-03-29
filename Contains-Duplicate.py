@@ -38,4 +38,8 @@ class Solution:
     E-Evaluate
     Time Complexity: O(n)
     Space Complexity: O(n)
+
+    OR 
+
+you could just check the length of the set of the array and compare to the length of the array itself
     """
