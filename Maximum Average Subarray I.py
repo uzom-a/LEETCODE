@@ -33,3 +33,23 @@ class Solution:
         Space Complexity : O(1)
 
     """
+
+#I UNDERSTAND THIS CODE BELOW FR 
+class Solution:
+    def findMaxAverage(self, nums: List[int], k: int) -> float:
+        curr = 0
+        
+        for i in range(k):
+            curr += nums[i] #generate the sum for the first fixed window
+            
+        ans = curr / k
+        
+        for i in range(k, len(nums)):    #continue with the rest of the array
+            curr += nums[i] - nums[i-k] # increasing and decreasing the size of the fixed window
+            
+            ans = max(ans, (curr / k))
+
+        return ans
+            
+        
+        
