@@ -8,3 +8,4 @@ class Solution:
 
         return ans
 
+#the time complexity is ass tho O(n^2) isn't good
