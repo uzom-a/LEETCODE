@@ -23,3 +23,33 @@ class Solution:
 
         #leaving that for loop above will mean there is no pivot index
         return -1
+
+        
+#MY SOLUTION
+class Solution:
+    def pivotIndex(self, nums: List[int]) -> int:
+        #INTIALIZE VARIABLES
+        sumLeft = 0
+        sumRight = 0
+
+        #CREATE THE PREFIX SUM ARRAY
+        prefix = [nums[0]]
+        for i in range(1, len(nums)):
+            prefix.append(nums[i]+ prefix[-1])
+
+        #GETTING THE PIVOT INDEX
+        for i in range(len(nums)):
+            if i == 0:
+                sumLeft = 0
+            else:
+                sumLeft = prefix[i-1] #the prefix sum before that current index would give sumLeft
+
+            if i == len(nums) - 1:
+                sumRight = 0
+            else:
+                sumRight = prefix[-1] - prefix[i]
+
+            if sumLeft == sumRight:
+                return i
+
+        return -1
