@@ -1,4 +1,4 @@
-# Time Complexity : O(n)
+# Time Complexity : O(n^2)
 # Space Complexity : O(n)
 class Solution(object):
     def isIsomorphic(self, s, t):
