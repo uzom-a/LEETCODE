@@ -16,3 +16,5 @@ class Solution:
                 return True
 
         return False
+#Time Complexity is O(n)
+#Space Complexity is O(1)
