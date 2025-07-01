@@ -17,4 +17,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
+## String
+|  |
+| ------- |
+| [3617-find-the-original-typed-string-i](https://github.com/uzom-a/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 <!---LeetCode Topics End-->
