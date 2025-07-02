@@ -1,20 +1,21 @@
 class Solution:
     def possibleStringCount(self, word: str) -> int:
-        #abbcccc
-        n = len(word)
+        length = 1 #because the OG word might have been what Alice wanted
         i = 0
-        total = 1 #original word typed out is correct
+        #abbcccc
+        #     i
+        #count = 3 
+
 
         while i < len(word):
-            count = 1
-            while i + 1 < n and word[i] == word[i+1]:
+            count = 0
+            while i + 1 < len(word) and word[i] == word[i + 1]:
                 count += 1
                 i += 1
-            if count >= 2:
-                total += (count - 1)
-            i += 1
-                
-        return total
 
-        #O(n) --> time complexity
-        #O(1) --> space complexity
+            if count >= 1:
+                length += (count)
+            print(count)
+            i += 1
+
+        return length
