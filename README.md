@@ -21,6 +21,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 | [3617-find-the-original-typed-string-i](https://github.com/uzom-a/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
@@ -30,4 +31,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
