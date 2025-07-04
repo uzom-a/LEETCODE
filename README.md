@@ -9,6 +9,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 ## Linked List
 |  |
 | ------- |
@@ -22,6 +23,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
+| [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [3617-find-the-original-typed-string-i](https://github.com/uzom-a/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
@@ -37,4 +39,8 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
+## Array
+|  |
+| ------- |
+| [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 <!---LeetCode Topics End-->
