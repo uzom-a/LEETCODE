@@ -13,6 +13,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
@@ -43,4 +44,12 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
