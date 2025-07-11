@@ -5,56 +5,49 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
+        dummy = ListNode()
+
+        cur = dummy #cur is the pointer for this linkedlist
+        carry = 0
+
+        while l1 or l2 or carry: #if carry still has a digit we should continue the while loop to satisfy that edge case even if carry has no digit
+            v1 = l1.val if l1 else 0 #get the value from the first linkedlist
+            v2 = l2.val if l2 else 0 #get thevalue from the second LinkedList
+
+            val = v1 + v2 + carry #normal elementery school addition
+            carry = val // 10 #to get the tens place for the carry
+            val = val % 10 #to keep the val at the units place
+
+            cur.next = ListNode(val) #create a new node for this value we have added together
+
+            #incrememnt pointers
+            cur = cur.next
+            l1 = l1.next if l1 else None
+            l2 = l2.next if l2 else None
+
+        return dummy.next
+
         """
         Understand
-            -we need to add the digits in the two linked list but in reverse order
+        the ll is stored in reverse order which makes it easier to add 
 
-            Input: two linked list
-            Output: one Linked list
-            Constraints: 4 + 6 = 10 
-            Edge Cases : carry_over variable
+        Match
+        linked list
 
         Plan
-            init ll
-            init carry_over
-            init curr1 to head of ll1
-            init curr2 to head of ll2
+        create a dummy node
+        create a pointer 
+        iterate through the linked list
+        add the values carry over the value if the addition is multiple digits
+        add those values to the new linked list
+        
+        Implement
+        look at the code above
 
-            iterate through both linked list ;nothing is out of bound
-                sum = curr1.val + curr2.val
-                carry_over = sum // 10
-                digit = sum % 10
+        Review
 
-            return ll
-
+        Evaluate
+        time complexity-O(n + m)
+        space complexity - O(n + m)
 
         """
-
-        temp = ListNode(0)
-        move = temp
-
-        curr1 = l1
-        curr2 = l2
-        rem = 0
-
-        while curr1 or curr2:
-            val1 = curr1.val if curr1 else 0
-            val2 = curr2.val if curr2 else 0
-
-            sum = val1 + val2 + rem
-            rem = sum // 10
-            digit = sum % 10
-            move.next = ListNode(digit)
-
-            #move the variales
-            curr1 = curr1.next if curr1 else None
-            curr2 = curr2.next if curr2 else None
-            move = move.next
-
-        if rem:
-            move.next = ListNode(rem) #to account for multiple carry overs
-        return temp.next
-
-    #Time Complexity = O max(n,m)
-    #Space Complexity = O max(n,m)
-
