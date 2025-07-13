@@ -11,6 +11,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -47,6 +48,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -55,4 +57,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
