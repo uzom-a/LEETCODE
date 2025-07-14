@@ -43,6 +43,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
+| [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 ## Array
 |  |
@@ -61,4 +62,12 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
