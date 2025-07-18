@@ -48,6 +48,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
+| [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Array
@@ -55,6 +56,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Math
 |  |
@@ -89,5 +91,6 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Simulation
 |  |
 | ------- |
+| [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
