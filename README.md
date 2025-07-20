@@ -54,6 +54,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
@@ -97,5 +98,10 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
