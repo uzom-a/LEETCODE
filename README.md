@@ -47,6 +47,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
@@ -56,6 +57,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
@@ -93,6 +95,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
