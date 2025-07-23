@@ -15,7 +15,7 @@ class MyStack:
         return self.queue_two[0]
 
     def empty(self) -> bool:
-        if not self.queue or not self.queue_two:
+        if not self.queue or not self.queue_two: #or because i did not pop from the first queue
             return True
         else:
             return False
