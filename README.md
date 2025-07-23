@@ -30,6 +30,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
+| [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
@@ -92,6 +93,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/uzom-a/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -119,5 +121,6 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Greedy
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
