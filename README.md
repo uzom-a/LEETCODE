@@ -35,6 +35,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/uzom-a/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
@@ -58,6 +59,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Array
@@ -125,5 +127,6 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0011-container-with-most-water](https://github.com/uzom-a/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 <!---LeetCode Topics End-->
