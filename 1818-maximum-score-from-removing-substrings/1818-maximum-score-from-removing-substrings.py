@@ -9,7 +9,7 @@ class Solution:
         -init score
         -if x is higher than or equal to y then start with x
             -loop through s 
-                -if encountered a "b" and stack[-1] is "a"
+                -if encountered a "b" and stack[-1] is "a" #ab
                     -pop from stack
                     -score += x
                 else:
