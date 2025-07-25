@@ -2,7 +2,7 @@ class Solution:
     def maxSum(self, nums: List[int]) -> int:
         maxx = max(nums)
         i = 0
-        if maxx < 0:
+        if maxx < 0: #if the largest number is negative then that is the best sum you can get so return it
             return maxx
         else:
             nums = list(set(nums)) #removing duplicates to make the array unique
