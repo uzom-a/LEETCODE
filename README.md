@@ -14,6 +14,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
 | ------- |
@@ -73,6 +74,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +131,5 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
