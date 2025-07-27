@@ -74,6 +74,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
