@@ -16,3 +16,6 @@ class Solution:
                 count += 1
 
         return count
+
+        #Time Complexity: O(n)
+        #Space Complexity: O(n)
