@@ -10,4 +10,6 @@ class Solution:
         #RECURSIVE CASE
         return self.isPowerOfThree(n/3)
 
+
+# Time Complexity and Space Complexity = O(log3n)
        
