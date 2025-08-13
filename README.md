@@ -52,6 +52,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
+| [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/uzom-a/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/uzom-a/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
@@ -138,11 +139,13 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -153,4 +156,5 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
+| [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
