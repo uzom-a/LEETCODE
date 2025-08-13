@@ -82,10 +82,12 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
 ## Counting
 |  |
 | ------- |
