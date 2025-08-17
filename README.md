@@ -36,6 +36,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -64,6 +65,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
