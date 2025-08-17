@@ -27,6 +27,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0011-container-with-most-water](https://github.com/uzom-a/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
@@ -75,6 +76,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0011-container-with-most-water](https://github.com/uzom-a/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
@@ -87,6 +89,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
