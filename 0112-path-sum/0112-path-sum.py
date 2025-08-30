@@ -7,20 +7,17 @@
 class Solution:
     def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
         def dfs(node, curr):
-            if not node: #if the tree is empty
+            if not node:
                 return False
+            
+            if node.left == None and node.right == None:
+                return curr + node.val == targetSum
 
-            if node.left == None and node.right == None: #that means we are at a leaf node
-                return (curr + node.val) == targetSum
-
-            curr += node.val
-            print(curr)
+            curr += node.val #keeping track of a running sum
             left = dfs(node.left, curr)
             right = dfs(node.right, curr)
 
-            return left or right #because we just need to find any path that sums up to the targetSum
+            return left or right #if one path is True return it that is why we used the or
 
-        return dfs(root, 0) #intialize curr to 0 
-
-        # Space Complexity = O(n)
-        # Time Complexity = O(n)
+        return dfs(root, 0)
+#Soace and Time Complexity is both O(n)
