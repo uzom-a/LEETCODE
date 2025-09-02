@@ -98,6 +98,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
+| [3371-harshad-number](https://github.com/uzom-a/LEETCODE/tree/master/3371-harshad-number) |
 ## Recursion
 |  |
 | ------- |
