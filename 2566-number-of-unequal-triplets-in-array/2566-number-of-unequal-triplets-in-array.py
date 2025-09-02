@@ -1,16 +1,21 @@
+from collections import Counter
 class Solution:
     def unequalTriplets(self, nums: List[int]) -> int:
-        #brute force
+        #optimized solution using their freq
+        freq = Counter(nums)
+        left = 0 #the numbers before that current number
+        right = 0 #the remaining numbers
         n = len(nums)
-        count = 0
+        res = 0
 
-        for i in range(n):
-            for j in range(i,n):
-                for k in range(j,n):
-                    if i != j and j != k and i != k:
-                        if nums[i] != nums[j] and nums[i] != nums[k] and nums[j] != nums[k]:
-                            count += 1
+        for val, count in freq.items():
+            right = n - left - count
 
-        return count
+            res += left * right * count #multiplying because the choices are independent of each other picking something from left would not affect the next time that you are choosing a triplet sho get ni?
+            left += count
 
-        #Time and Sapce Complexity of O(n)^3 and O(1) respectively
+        return res
+
+
+        #Time Complexity is O(n)
+        #Space Complexity is O(n)
