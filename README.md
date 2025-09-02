@@ -35,6 +35,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0058-length-of-last-word](https://github.com/uzom-a/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
