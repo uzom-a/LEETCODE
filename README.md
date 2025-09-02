@@ -83,6 +83,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1656-count-good-triplets](https://github.com/uzom-a/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
@@ -172,4 +173,8 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/uzom-a/LEETCODE/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
