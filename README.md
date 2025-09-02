@@ -14,6 +14,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
 |  |
@@ -85,6 +86,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/uzom-a/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -177,4 +179,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/uzom-a/LEETCODE/tree/master/1656-count-good-triplets) |
+## Sorting
+|  |
+| ------- |
+| [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 <!---LeetCode Topics End-->
