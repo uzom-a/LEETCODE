@@ -36,3 +36,8 @@ class BrowserHistory:
 # obj.visit(url)
 # param_2 = obj.back(steps)
 # param_3 = obj.forward(steps)
+
+"""
+Time Complexity: visit O(1), back O(min(steps, N)), forward O(min(steps, N))
+Space Complexity: O(N)
+"""
