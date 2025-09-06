@@ -24,6 +24,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
@@ -89,6 +91,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 | [1656-count-good-triplets](https://github.com/uzom-a/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -119,6 +122,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -134,6 +138,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
+| [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 ## Simulation
 |  |
 | ------- |
@@ -202,4 +207,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
