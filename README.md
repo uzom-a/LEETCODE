@@ -95,6 +95,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1656-count-good-triplets](https://github.com/uzom-a/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uzom-a/LEETCODE/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Math
 |  |
@@ -105,6 +106,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [3371-harshad-number](https://github.com/uzom-a/LEETCODE/tree/master/3371-harshad-number) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uzom-a/LEETCODE/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
