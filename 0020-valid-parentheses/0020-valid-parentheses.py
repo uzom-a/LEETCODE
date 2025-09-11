@@ -16,3 +16,6 @@ class Solution:
 
 
         return not stack
+
+        #Space Complexity: O(n)
+        #Time Complexity: O(n)
