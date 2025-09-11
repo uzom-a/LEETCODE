@@ -49,6 +49,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/uzom-a/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/uzom-a/LEETCODE/tree/master/3617-find-the-original-typed-string-i) |
@@ -151,6 +152,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/uzom-a/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 ## Binary Search
 |  |
