@@ -28,6 +28,13 @@ class Solution:
             temp_list[i] = int(temp_list[i])
 
         ans = sum(temp_list)
+
+
+        """
+                line 17 to 30 in just two lines of code oo Uzoma
+                digits = [int(d) for ch in s for d in str(ord(ch) - ord('a') + 1)]
+        ans = sum(digits)
+        """
         # print (temp_list)
         # print(ans)
 
@@ -42,3 +49,5 @@ class Solution:
             k -= 1
         return ans
 
+        # Space Complexity: O(n)
+        # Time Complexity: O(n)
