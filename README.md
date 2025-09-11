@@ -39,6 +39,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uzom-a/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/uzom-a/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
@@ -64,6 +65,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
