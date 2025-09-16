@@ -60,6 +60,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0118-pascals-triangle](https://github.com/uzom-a/LEETCODE/tree/master/0118-pascals-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +92,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0011-container-with-most-water](https://github.com/uzom-a/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uzom-a/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/uzom-a/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
