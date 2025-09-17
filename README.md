@@ -15,6 +15,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -97,6 +98,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
@@ -237,4 +239,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
