@@ -100,6 +100,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/uzom-a/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
@@ -178,6 +179,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -202,12 +204,14 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/uzom-a/LEETCODE/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,4 +255,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
