@@ -1,24 +1,21 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        i = 0
-        j = 0
-        dict_track = {}
-        mapped_chars = set()
+        s_to_t = {}
+        t_to_s = {}
 
-        while i < len(s) and j < len(s):
-            if s[i] in dict_track:
-                if dict_track[s[i]] != t[j]:
-                    return False #break the while loop and flag the error
+        for c1, c2 in zip(s, t):
+            if c1 in s_to_t:
+                if s_to_t[c1] != c2:
+                    return False
             else:
-                if t[j] in mapped_chars:
-                    return False #we don't need two letters mapping to one
-                dict_track[s[i]] = t[j]
-                mapped_chars.add(t[j])
+                s_to_t[c1] = c2
 
-            i += 1
-            j += 1
-        
-        return True #if we have reached this stage then no issues it is an isomorphic string
+            if c2 in t_to_s:
+                if t_to_s[c2] != c1:
+                    return False
+            else:
+                t_to_s[c2] = c1
 
-# Space Complexity: O(n)
-# Time Complexity : O(n) since both strings are of equal length
+        return True
+
+#double mapping with two dictionaries still gives O(n) space and time complexity
