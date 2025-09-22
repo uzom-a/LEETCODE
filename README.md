@@ -11,6 +11,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0003-longest-substring-without-repeating-characters](https://github.com/uzom-a/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
+| [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
@@ -46,6 +47,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/uzom-a/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
+| [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
