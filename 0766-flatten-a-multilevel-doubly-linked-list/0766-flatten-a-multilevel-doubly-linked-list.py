@@ -35,3 +35,6 @@ class Solution:
             curr = curr.next
 
         return head
+        
+#Time Complexity: O(n)
+#Space Complexity: O(1)
