@@ -19,6 +19,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -56,6 +57,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
+| [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
@@ -146,6 +148,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
+| [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
@@ -177,6 +180,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
+| [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
