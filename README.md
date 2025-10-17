@@ -53,6 +53,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0125-valid-palindrome](https://github.com/uzom-a/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -126,6 +127,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [3371-harshad-number](https://github.com/uzom-a/LEETCODE/tree/master/3371-harshad-number) |
@@ -134,6 +136,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
 ## Counting
 |  |
