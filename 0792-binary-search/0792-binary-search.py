@@ -1,9 +1,13 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        if nums == []:
-            return -1
-        if len(nums) == 1 and nums[0] == target:
-            return 0
+        """
+        assign left and right
+        use a while loop tht breaks when left > right
+        find middle based on current left and right
+        check if current middle position equals to target 
+        if not move left or right based on equality sign
+        else return
+        """
         left = 0
         right = len(nums) - 1
 
@@ -15,7 +19,5 @@ class Solution:
                 right = mid - 1
             else:
                 left = mid + 1
-                
-
 
         return -1
