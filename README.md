@@ -21,6 +21,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1512-design-underground-system](https://github.com/uzom-a/LEETCODE/tree/master/1512-design-underground-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -61,6 +62,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1512-design-underground-system](https://github.com/uzom-a/LEETCODE/tree/master/1512-design-underground-system) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/uzom-a/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -152,6 +154,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
+| [1512-design-underground-system](https://github.com/uzom-a/LEETCODE/tree/master/1512-design-underground-system) |
 | [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 ## Queue
 |  |
