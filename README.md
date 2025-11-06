@@ -20,6 +20,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/uzom-a/LEETCODE/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/uzom-a/LEETCODE/tree/master/1512-design-underground-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -62,6 +63,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/uzom-a/LEETCODE/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/uzom-a/LEETCODE/tree/master/1512-design-underground-system) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -144,6 +146,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
+| [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/uzom-a/LEETCODE/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Design
 |  |
