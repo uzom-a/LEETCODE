@@ -228,6 +228,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -237,6 +238,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
@@ -253,6 +255,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/uzom-a/LEETCODE/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 ## Enumeration
