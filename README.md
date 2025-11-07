@@ -226,6 +226,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0110-balanced-binary-tree) |
@@ -236,6 +237,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0110-balanced-binary-tree) |
@@ -253,6 +255,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0110-balanced-binary-tree) |
@@ -288,6 +291,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 ## Prefix Sum
 |  |
