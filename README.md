@@ -16,6 +16,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/uzom-a/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
@@ -57,6 +58,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/uzom-a/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/uzom-a/LEETCODE/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -149,6 +151,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/uzom-a/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/uzom-a/LEETCODE/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Design
@@ -167,6 +170,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/uzom-a/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/uzom-a/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 ## Monotonic Stack
 |  |
