@@ -56,6 +56,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/uzom-a/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/uzom-a/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
@@ -88,6 +89,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0011-container-with-most-water](https://github.com/uzom-a/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uzom-a/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/uzom-a/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
@@ -208,6 +211,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
 ## Greedy
 |  |
@@ -229,6 +233,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0099-recover-binary-search-tree](https://github.com/uzom-a/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/uzom-a/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
