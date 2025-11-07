@@ -20,6 +20,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0387-first-unique-character-in-a-string](https://github.com/uzom-a/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
+| [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/uzom-a/LEETCODE/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -45,6 +46,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
+| [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
@@ -62,6 +64,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0387-first-unique-character-in-a-string](https://github.com/uzom-a/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/uzom-a/LEETCODE/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
@@ -211,6 +214,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0011-container-with-most-water](https://github.com/uzom-a/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
+| [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
