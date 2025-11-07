@@ -67,6 +67,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/uzom-a/LEETCODE/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/uzom-a/LEETCODE/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1512-design-underground-system](https://github.com/uzom-a/LEETCODE/tree/master/1512-design-underground-system) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
@@ -101,6 +102,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/uzom-a/LEETCODE/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1371-minimum-remove-to-make-valid-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
