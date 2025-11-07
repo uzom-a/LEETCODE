@@ -57,6 +57,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/uzom-a/LEETCODE/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/uzom-a/LEETCODE/tree/master/0649-dota2-senate) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
@@ -90,6 +91,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0155-min-stack](https://github.com/uzom-a/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/uzom-a/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/uzom-a/LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
@@ -142,6 +144,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/uzom-a/LEETCODE/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
