@@ -65,6 +65,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0125-valid-palindrome](https://github.com/uzom-a/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/uzom-a/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
@@ -178,6 +179,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0146-lru-cache](https://github.com/uzom-a/LEETCODE/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/uzom-a/LEETCODE/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/uzom-a/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/uzom-a/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -259,6 +261,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/uzom-a/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/uzom-a/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/uzom-a/LEETCODE/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
@@ -327,4 +330,5 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/uzom-a/LEETCODE/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
