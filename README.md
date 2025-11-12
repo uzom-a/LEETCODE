@@ -14,6 +14,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0146-lru-cache](https://github.com/uzom-a/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -63,6 +64,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/uzom-a/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0383-ransom-note](https://github.com/uzom-a/LEETCODE/tree/master/0383-ransom-note) |
@@ -175,6 +177,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0146-lru-cache](https://github.com/uzom-a/LEETCODE/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/uzom-a/LEETCODE/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/uzom-a/LEETCODE/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/uzom-a/LEETCODE/tree/master/0232-implement-queue-using-stacks) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -320,4 +323,8 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
