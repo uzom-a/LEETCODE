@@ -38,6 +38,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/uzom-a/LEETCODE/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/uzom-a/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/uzom-a/LEETCODE/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/uzom-a/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/uzom-a/LEETCODE/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -49,6 +50,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uzom-a/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/uzom-a/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/uzom-a/LEETCODE/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
@@ -104,6 +106,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0020-valid-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/uzom-a/LEETCODE/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/uzom-a/LEETCODE/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/uzom-a/LEETCODE/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/uzom-a/LEETCODE/tree/master/0225-implement-stack-using-queues) |
@@ -163,6 +166,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/uzom-a/LEETCODE/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/uzom-a/LEETCODE/tree/master/0143-reorder-list) |
 | [0273-integer-to-english-words](https://github.com/uzom-a/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/uzom-a/LEETCODE/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/uzom-a/LEETCODE/tree/master/0394-decode-string) |
