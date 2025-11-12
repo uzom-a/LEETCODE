@@ -21,7 +21,7 @@ class Solution:
         #reverse list
         prev = None
         curr = slow.next
-        slow.next = None
+        slow.next = None #break the link so tat it does not become cyclic remember you already stored curr 
         while curr:
             next_node = curr.next
             curr.next = prev
