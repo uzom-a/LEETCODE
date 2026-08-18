@@ -57,6 +57,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0283-move-zeroes](https://github.com/uzom-a/LEETCODE/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/uzom-a/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2540-minimum-common-value](https://github.com/uzom-a/LEETCODE/tree/master/2540-minimum-common-value) |
 ## String
 |  |
@@ -89,6 +90,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/uzom-a/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/uzom-a/LEETCODE/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -126,6 +128,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1666-make-the-string-great](https://github.com/uzom-a/LEETCODE/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uzom-a/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2000-reverse-prefix-of-word](https://github.com/uzom-a/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/uzom-a/LEETCODE/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Array
