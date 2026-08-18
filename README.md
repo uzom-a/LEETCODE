@@ -29,6 +29,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1510-find-lucky-integer-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-design-underground-system](https://github.com/uzom-a/LEETCODE/tree/master/1512-design-underground-system) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uzom-a/LEETCODE/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2540-minimum-common-value](https://github.com/uzom-a/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Linked List
@@ -55,6 +56,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
+| [2540-minimum-common-value](https://github.com/uzom-a/LEETCODE/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -148,6 +150,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
 | [1656-count-good-triplets](https://github.com/uzom-a/LEETCODE/tree/master/1656-count-good-triplets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/uzom-a/LEETCODE/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2540-minimum-common-value](https://github.com/uzom-a/LEETCODE/tree/master/2540-minimum-common-value) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/uzom-a/LEETCODE/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/uzom-a/LEETCODE/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -223,6 +226,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
 | [1023-time-based-key-value-store](https://github.com/uzom-a/LEETCODE/tree/master/1023-time-based-key-value-store) |
+| [2540-minimum-common-value](https://github.com/uzom-a/LEETCODE/tree/master/2540-minimum-common-value) |
 ## Matrix
 |  |
 | ------- |
