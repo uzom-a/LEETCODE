@@ -54,6 +54,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0143-reorder-list](https://github.com/uzom-a/LEETCODE/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/uzom-a/LEETCODE/tree/master/0283-move-zeroes) |
 | [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [2540-minimum-common-value](https://github.com/uzom-a/LEETCODE/tree/master/2540-minimum-common-value) |
@@ -139,6 +140,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/uzom-a/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
