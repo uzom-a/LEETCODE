@@ -1,41 +1,26 @@
-from collections import defaultdict
+import random
 class RandomizedSet:
 
     def __init__(self):
-        self.listt = []
-        self.dictt = defaultdict()
-        self.len = 0
+        self.sett = set()
 
     def insert(self, val: int) -> bool:
-        if val in self.dictt:
+        if val in self.sett:
             return False
-
-        self.listt.append(val)
-        self.dictt[val] = self.len
-        self.len += 1
-
-        return True #this line has to work regardless because if it was present it woul dhave failed in line 11
+        else:
+            self.sett.add(val)
+            return True
+        
 
     def remove(self, val: int) -> bool:
-        if not val in self.dictt:
+        if val in self.sett:
+            self.sett.remove(val)
+            return True
+        else:
             return False
 
-        last_element = self.listt[-1]
-        ind = self.dictt[val]
-
-
-#Swap the current value with the last_element
-        self.listt[ind] , self.dictt[last_element] = last_element, ind
-
-        #Pop the last element (which was a duplicate after the swap).Remove val from the dictionary.
-
-        self.listt.pop()
-        del self.dictt[val]
-        self.len -= 1
-        return True
-
     def getRandom(self) -> int:
-        return random.choice(self.listt)
+        return random.choice(list(self.sett))
 
 
 # Your RandomizedSet object will be instantiated and called as such:
