@@ -121,6 +121,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0394-decode-string](https://github.com/uzom-a/LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/uzom-a/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
@@ -152,6 +153,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/uzom-a/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0735-asteroid-collision](https://github.com/uzom-a/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/uzom-a/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/uzom-a/LEETCODE/tree/master/0792-binary-search) |
 | [0965-unique-email-addresses](https://github.com/uzom-a/LEETCODE/tree/master/0965-unique-email-addresses) |
 | [0983-validate-stack-sequences](https://github.com/uzom-a/LEETCODE/tree/master/0983-validate-stack-sequences) |
@@ -214,6 +216,7 @@ I solve leetcode questions using the UMPIRE METHOD
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/uzom-a/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/uzom-a/LEETCODE/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/uzom-a/LEETCODE/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
