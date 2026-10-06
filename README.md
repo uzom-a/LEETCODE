@@ -44,6 +44,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/uzom-a/LEETCODE/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1582-design-browser-history](https://github.com/uzom-a/LEETCODE/tree/master/1582-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/uzom-a/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0768-partition-labels](https://github.com/uzom-a/LEETCODE/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/uzom-a/LEETCODE/tree/master/0874-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/uzom-a/LEETCODE/tree/master/2000-reverse-prefix-of-word) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/uzom-a/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/uzom-a/LEETCODE/tree/master/2540-minimum-common-value) |
 ## String
 |  |
