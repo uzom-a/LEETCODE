@@ -15,6 +15,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/uzom-a/LEETCODE/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/uzom-a/LEETCODE/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/uzom-a/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -149,6 +150,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0118-pascals-triangle](https://github.com/uzom-a/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/uzom-a/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/uzom-a/LEETCODE/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/uzom-a/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/uzom-a/LEETCODE/tree/master/0283-move-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uzom-a/LEETCODE/tree/master/0380-insert-delete-getrandom-o1) |
@@ -314,6 +316,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/uzom-a/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/uzom-a/LEETCODE/tree/master/2566-number-of-unequal-triplets-in-array) |
