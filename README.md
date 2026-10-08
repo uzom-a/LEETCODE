@@ -10,6 +10,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | ------- |
 | [0001-two-sum](https://github.com/uzom-a/LEETCODE/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uzom-a/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/uzom-a/LEETCODE/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/uzom-a/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/uzom-a/LEETCODE/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/uzom-a/LEETCODE/tree/master/0160-intersection-of-two-linked-lists) |
@@ -68,6 +69,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0003-longest-substring-without-repeating-characters](https://github.com/uzom-a/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/uzom-a/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/uzom-a/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/uzom-a/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/uzom-a/LEETCODE/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
@@ -145,6 +147,7 @@ I solve leetcode questions using the UMPIRE METHOD
 | [0001-two-sum](https://github.com/uzom-a/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/uzom-a/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/uzom-a/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/uzom-a/LEETCODE/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/uzom-a/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/uzom-a/LEETCODE/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/uzom-a/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -316,6 +319,7 @@ I solve leetcode questions using the UMPIRE METHOD
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/uzom-a/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/uzom-a/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/uzom-a/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/uzom-a/LEETCODE/tree/master/0268-missing-number) |
